@@ -71,7 +71,7 @@ This screenshot shows the scraper running successfully and generating the output
 
 This screenshot demonstrates the final deliverable structure produced by the script.
 
-![Script Run Output](screenshots\csv_output_preview.png)
+![CSV Output](screenshots\csv_output_preview.png)
 
 ---
 
